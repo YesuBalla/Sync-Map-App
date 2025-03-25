@@ -45,7 +45,7 @@ CREATE TABLE states (
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yesuballa/sync-map-app.git
+   git clone https://github.com/YesuBalla/Sync-Map-App.git
    cd sync-map-app
    ```
 
